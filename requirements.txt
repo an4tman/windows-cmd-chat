@@ -1,0 +1,8 @@
+openai
+langchain
+psutil
+pyreadline
+prompt_toolkit
+colorama
+requests
+python-dotenv
